@@ -1,0 +1,148 @@
+{
+  "students":[
+  {
+    "lastName": "Barrett",
+    "firstName": "Kelley",
+    "faculty": "social science",
+    "phone": "(872) 497-3435",
+    "cellphone": "(867) 527-2674",
+    "email": "kelleybarrett@sealoud.com",
+    "phoneConvesation": "Freda",
+    "firstMeeting": 0,
+    "secondMeeting": 0,
+    "thirdMeeting": 0
+  },
+  {
+    "lastName": "Mason",
+    "firstName": "Sabrina",
+    "faculty": "exact science",
+    "phone": "(872) 582-2533",
+    "cellphone": "(948) 538-3802",
+    "email": "sabrinamason@sealoud.com",
+    "phoneConvesation": "Stevens",
+    "firstMeeting": 1,
+    "secondMeeting": 1,
+    "thirdMeeting": 1
+  },
+  {
+    "lastName": "Burris",
+    "firstName": "Cecile",
+    "faculty": "social science",
+    "phone": "(963) 528-3792",
+    "cellphone": "(865) 556-2258",
+    "email": "cecileburris@sealoud.com",
+    "phoneConvesation": "Tillman",
+    "firstMeeting": 2,
+    "secondMeeting": 2,
+    "thirdMeeting": 2
+  },
+  {
+    "lastName": "Oconnor",
+    "firstName": "Renee",
+    "faculty": "social science",
+    "phone": "(842) 594-3516",
+    "cellphone": "(856) 465-2422",
+    "email": "reneeoconnor@sealoud.com",
+    "phoneConvesation": "Swanson",
+    "firstMeeting": 3,
+    "secondMeeting": 3,
+    "thirdMeeting": 3
+  },
+  {
+    "lastName": "Russo",
+    "firstName": "Josie",
+    "faculty": "exact science",
+    "phone": "(869) 578-3084",
+    "cellphone": "(945) 554-2923",
+    "email": "josierusso@sealoud.com",
+    "phoneConvesation": "Lesley",
+    "firstMeeting": 4,
+    "secondMeeting": 4,
+    "thirdMeeting": 4
+  },
+  {
+    "lastName": "Lee",
+    "firstName": "Sloan",
+    "faculty": "social science",
+    "phone": "(968) 499-3524",
+    "cellphone": "(974) 423-3088",
+    "email": "sloanlee@sealoud.com",
+    "phoneConvesation": "Hines",
+    "firstMeeting": 5,
+    "secondMeeting": 5,
+    "thirdMeeting": 5
+  },
+  {
+    "lastName": "Graves",
+    "firstName": "Mollie",
+    "faculty": "medicine",
+    "phone": "(950) 459-2496",
+    "cellphone": "(862) 504-3631",
+    "email": "molliegraves@sealoud.com",
+    "phoneConvesation": "Petty",
+    "firstMeeting": 6,
+    "secondMeeting": 6,
+    "thirdMeeting": 6
+  },
+  {
+    "lastName": "Burch",
+    "firstName": "Francesca",
+    "faculty": "exact science",
+    "phone": "(815) 527-3951",
+    "cellphone": "(908) 424-2109",
+    "email": "francescaburch@sealoud.com",
+    "phoneConvesation": "Alford",
+    "firstMeeting": 7,
+    "secondMeeting": 7,
+    "thirdMeeting": 7
+  },
+  {
+    "lastName": "Oneil",
+    "firstName": "Randall",
+    "faculty": "medicine",
+    "phone": "(823) 525-2274",
+    "cellphone": "(998) 583-3460",
+    "email": "randalloneil@sealoud.com",
+    "phoneConvesation": "Nora",
+    "firstMeeting": 8,
+    "secondMeeting": 8,
+    "thirdMeeting": 8
+  },
+  {
+    "lastName": "Roberts",
+    "firstName": "Luann",
+    "faculty": "social science",
+    "phone": "(936) 535-3675",
+    "cellphone": "(967) 563-3934",
+    "email": "luannroberts@sealoud.com",
+    "phoneConvesation": "Diaz",
+    "firstMeeting": 9,
+    "secondMeeting": 9,
+    "thirdMeeting": 9
+  },
+  {
+    "lastName": "Hull",
+    "firstName": "Elisabeth",
+    "faculty": "medicine",
+    "phone": "(817) 560-2192",
+    "cellphone": "(832) 569-2470",
+    "email": "elisabethhull@sealoud.com",
+    "phoneConvesation": "Berg",
+    "firstMeeting": 10,
+    "secondMeeting": 10,
+    "thirdMeeting": 10
+  },
+  {
+    "lastName": "Moss",
+    "firstName": "Geraldine",
+    "faculty": "exact science",
+    "phone": "(879) 545-3637",
+    "cellphone": "(947) 455-3090",
+    "email": "geraldinemoss@sealoud.com",
+    "phoneConvesation": "Curry",
+    "firstMeeting": 11,
+    "secondMeeting": 11,
+    "thirdMeeting": 11
+  }
+]
+}

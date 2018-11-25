@@ -1,0 +1,12 @@
+.tutors-container
+{
+  display: flex;
+  justify-content: flex-end;
+  .tutors-sidebar
+  {
+    div{
+      text-align: right;
+    }
+
+  }
+}

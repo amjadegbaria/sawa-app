@@ -1,0 +1,12 @@
+.bar-tabs
+{
+  height: fit-content;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  .span
+  {
+    font-size: 26px;
+  }
+}

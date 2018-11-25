@@ -1,0 +1,30 @@
+.login-form
+{
+  height: 350px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: white;
+  padding: 40px;
+  color: #22212E;
+  border: 1px solid #22212E;
+  border-top:5px solid #22212E;
+  border-radius: 5px;
+  margin-left: 20px;
+  align-self: center;
+
+  header
+  {
+    display: flex;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .username
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+}

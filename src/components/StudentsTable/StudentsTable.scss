@@ -1,0 +1,11 @@
+.students-table
+{
+  overflow: scroll;
+  tbody{
+    .name
+    {
+      color: blue;
+      cursor: pointer;
+    }
+  }
+}

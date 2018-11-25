@@ -1,0 +1,36 @@
+
+header{
+  margin-bottom: 20px;
+  text-align: right;
+  margin-right: 50px;
+}
+
+.content
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: fit-content;
+  text-align: right;
+  form{
+    width: 500px;
+    height: 300px;
+    div
+    {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .button
+    {
+      justify-self: flex-start;
+    }
+  }
+  .info
+  {
+    justify-content: flex-start;
+    height: 300px;
+  }
+}

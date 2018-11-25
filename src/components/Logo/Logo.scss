@@ -1,0 +1,16 @@
+.logo-container
+{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px ;
+  .logo-image
+  {
+    margin-left: 10px;
+  }
+  .logo-text
+  {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+  }
+}

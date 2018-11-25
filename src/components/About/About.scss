@@ -1,0 +1,17 @@
+.about
+{
+  width: 400px;
+  align-self: center;
+  header
+  {
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  span
+  {
+    font-size: 14px;
+    display: flex;
+    text-align: right;
+  }
+}
